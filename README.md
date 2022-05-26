@@ -52,8 +52,8 @@ b.	For the hidden units.
 ```
 
 Program to implement ANN by back propagation algorithm.
-Developed by   : Shaik Khadar Basha
-RegisterNumber :  212220230045
+Developed by   : MANNEPALLI UDAY KUMAR
+RegisterNumber :  212219040168
 
 ```
 ```python
