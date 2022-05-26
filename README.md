@@ -1,4 +1,4 @@
-### EXPERIMENT NO : 06
+### EXPERIMENT NO : 04
 ### DATE  : 02.05.2022
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
